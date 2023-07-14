@@ -1,12 +1,22 @@
 body {
     font-family: "Roboto", sans-serif;
+    font-size: 1rem;
     color: #eeeeee;
     background-color: #151515;    
 }
 a:link {
-    color:#66ffff;
+    color:#33bbbb;
     text-decoration: none;
 }
 a:hover{
     text-decoration: underline;
+}
+h1 {
+    font-size: 4.25rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+h3 {
+    font-size: 1.5rem;
 }
