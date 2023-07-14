@@ -5,14 +5,14 @@ body {
     background-color: #151515;    
 }
 a:link {
-    color:#33bbbb;
+    color:#33bb00;
     text-decoration: none;
 }
 a:hover{
     text-decoration: underline;
 }
 h1 {
-    font-size: 4.25rem;
+    font-size: 4.3rem;
 }
 h2 {
     font-size: 2.5rem;
