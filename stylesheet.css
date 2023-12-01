@@ -1,11 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #eeeeee;
-    background-color: #17191f;
+    background-color: #282828;
     font-size: 18px;
 }
 a:link {
-    color:#8ba3cf;
+    color:#7392c6;
     text-decoration: none;
 }
 a:hover {
